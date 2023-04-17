@@ -1,10 +1,15 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8"/>
-    <title>Test</title>
+    <title>Min første HTML-side</title>
 </head>
 <body>
-<h1>GitHub Pages Website Tutorial</h1>
-<p>Hey, thanks for stopping by! You most likely came here after watching my GitHub Pages website video. If so, leave a comment on the video!</p>
+    <h1>Velkommen til min side!</h1>
+    <p>Dette er min første HTML-side.</p>
+    <ul>
+        <li>Punkt 1</li>
+        <li>Punkt 2</li>
+        <li>Punkt 3</li>
+    </ul>
 </body>
 </html>
